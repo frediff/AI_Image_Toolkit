@@ -1,3 +1,9 @@
+"""
+Code written by Subham Ghosh
+2nd Year CSE Undergraduate
+IIT KGP
+"""
+
 from my_package.model import InstanceSegmentationModel
 from my_package.data import Dataset
 from my_package.analysis import plot_visualization
