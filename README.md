@@ -4,8 +4,8 @@ This project is about a simple AI toolkit to identify important objects within a
 **To run the tool simply run the `toolkit.py` as an executable**
 ## Here are some screenshots :
 ### *The tool interface* ###
-![](s1.png)
+![](s1.png?raw=true)
 ### *The bounding boxes on a sample image* ###
-![](s3.png)
+![](s3.png?raw=true)
 ### *The segmentation masks on a sample image* ###
-![](s2.png)
+![](s2.png?raw=true)
